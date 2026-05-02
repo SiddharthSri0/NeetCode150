@@ -1,4 +1,4 @@
-#NeetCode150 Solutions - My Solutions 
+#NeetCode150 - My Solutions 
 
 How This Repo Works
 
