@@ -9,21 +9,40 @@ How This Repo Works
 -> You'll see my solutions evolve as I get better — earlier solutions may be less optimal than later ones, and that's intentional
 
 Problems are organized by topic, matching NeetCode's roadmap:
+
 📁 arrays-hashing/
+
 📁 two-pointers/
+
 📁 sliding-window/
+
 📁 stack/
+
 📁 binary-search/
+
 📁 linked-list/
+
 📁 trees/
+
 📁 tries/
+
 📁 heap-priority-queue/
+
 📁 backtracking/
+
 📁 graphs/
+
 📁 advanced-graphs/
+
 📁 1d-dynamic-programming/
+
 📁 2d-dynamic-programming/
+
 📁 greedy/
+
 📁 intervals/
+
 📁 math-geometry/
+
 📁 bit-manipulation/
+
