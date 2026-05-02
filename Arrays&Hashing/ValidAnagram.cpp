@@ -1,16 +1,13 @@
 class Solution {
 public:
-    bool hasDuplicate(vector<int>& nums) {
-        unordered_map<int , int> mpp;
-        for(int i=0 ; i < nums.size(); i++){
-            mpp[nums[i]]++;
+    bool isAnagram(string s, string t) {
+        if(s.size()!=t.size()) return false;
+        map < char , int > mpp;
+        map < char , int > mpp1;
+        for(int i =0 ; i < s.size(); i++){
+            mpp[s[i]]++;
+            mpp1[t[i]]++;
         }
-        for(int i=0 ; i < nums.size(); i ++){
-            if(mpp[nums[i]]>1){
-                return true;
-            }
-           
-        }
-        return false;
+       return (mpp==mpp1);
     }
 };
