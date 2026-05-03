@@ -1,17 +1,16 @@
-#NeetCode150 - My Solutions 
+# NeetCode 150 — Solutions
 
-How This Repo Works
+A structured collection of my solutions to the NeetCode 150 problem set, solved in C++.
 
--> Problems are solved using C++
+---
 
+## How this works
 
--> Solutions are a mix of auto-uploaded (via NeetCode's GitHub integration) and manually pushed ones
-
--> I only push problems I've actually attempted myself 
-
--> Code here reflects my own approach and thinking, not necessarily the most optimal solution
-
--> You'll see my solutions evolve as I get better — earlier solutions may be less optimal than later ones, and that's intentional
+- Problems are solved in **C++**
+- Solutions are a mix of auto-uploaded (via NeetCode's GitHub integration) and manually pushed
+- Only problems I've genuinely attempted myself are pushed here
+- Code reflects my own thinking — not always the most optimal approach
+- Solutions will evolve over time. Earlier ones may be less polished than later ones, and that's intentional
 
 Problems are organized by topic, matching NeetCode's roadmap:
 
@@ -51,3 +50,9 @@ Problems are organized by topic, matching NeetCode's roadmap:
 
 📁 bit-manipulation/
 
+
+## Progress
+
+![Progress](https://progress-bar.dev/0/?title=solved&width=400&color=babaca)
+
+`0 / 150 solved`
