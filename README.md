@@ -53,6 +53,5 @@ Problems are organized by topic, matching NeetCode's roadmap:
 
 ## Progress
 
-![Progress](https://progress-bar.dev/0/?title=solved&width=400&color=babaca)
 
-`0 / 150 solved`
+#`3 / 150 solved`
