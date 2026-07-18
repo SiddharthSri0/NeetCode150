@@ -52,4 +52,4 @@ Problems are organized by topic, matching NeetCode's roadmap:
 ## Progress
 
 
-#`8 / 150 solved`
+#`9 / 150 solved`
