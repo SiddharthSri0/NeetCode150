@@ -7,7 +7,7 @@ A structured collection of my solutions to the NeetCode 150 problem set, solved 
 ## How this works
 
 - Problems are solved in **C++**
-- Only problems I've genuinely attempted myself are pushed here
+- Most optimal solutions to each of the problems 
 - Each published code will be included with a descrition providing its Time Complexity 
 
 Problems are organized by topic, matching NeetCode's roadmap:
